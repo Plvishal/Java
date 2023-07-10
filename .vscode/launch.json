@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "productOfTwoNumber",
+      "request": "launch",
+      "mainClass": "variable_Data_types.productOfTwoNumber",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
       "name": "inputMethodSumOfTwoNumber",
       "request": "launch",
       "mainClass": "variable_Data_types.inputMethodSumOfTwoNumber",
