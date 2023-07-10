@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "variables",
+      "request": "launch",
+      "mainClass": "variable_Data_types.variables",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
       "name": "Current File",
       "request": "launch",
       "mainClass": "${file}"
@@ -15,7 +22,10 @@
       "name": "HelloWorld",
       "request": "launch",
       "mainClass": "HelloWorld",
-      "projectName": "Java_a7c07b7c"
+      "projectName": "Java_a7c07b7c",
+      "noDebug": false,
+      "__progressId": "affb7f0c-51c3-427f-8516-5e73319ac1f5",
+      "__origin": "internal"
     }
   ]
 }
