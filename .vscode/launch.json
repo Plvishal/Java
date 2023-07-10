@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "sumOftwonumber",
+      "request": "launch",
+      "mainClass": "variable_Data_types.sumOftwonumber",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
       "name": "variables",
       "request": "launch",
       "mainClass": "variable_Data_types.variables",
