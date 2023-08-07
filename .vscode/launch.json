@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ifElseStatement",
+      "request": "launch",
+      "mainClass": "ConditionalStatement.ifElseStatement",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
       "name": "arithmeticOperators",
       "request": "launch",
       "mainClass": "oprators.arithmeticOperators",
