@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "arithmeticOperators",
+      "request": "launch",
+      "mainClass": "oprators.arithmeticOperators",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
       "name": "TotalCostOfIteam",
       "request": "launch",
       "mainClass": "variable_Data_types.TotalCostOfIteam",
