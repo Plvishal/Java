@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "averageOfNNumber",
+      "request": "launch",
+      "mainClass": "variable_Data_types.averageOfNNumber",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
       "name": "areaOfCircle",
       "request": "launch",
       "mainClass": "variable_Data_types.areaOfCircle",
